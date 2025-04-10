@@ -1,7 +1,4 @@
-# Mapping-Emotional-Landscapes-Insights-from-Cancer-Survivors-and-Caregivers
-Alright, I'll craft a visually appealing README.md file based on the content from the notebook files. My focus will be on using markdown formatting to create a clean and engaging look, along with badges and clear explanations.
 
-```markdown
 # 🎗️ Mental Health Insights from Cancer Survivors & Caregivers: An NLP Exploration 🧠
 
 [![Project Stage](https://img.shields.io/badge/Status-Complete-brightgreen.svg?style=for-the-badge)](https://shields.io/)
